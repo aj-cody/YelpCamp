@@ -20,8 +20,6 @@ var url = process.env.DATABASEURLYELPCAMP || "mongodb://localhost:27017/yelp_cam
 
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true });
 
-// mongoose.connect("mongodb+srv://aj_cody:aj1234@yelpcamp.rigns.gcp.mongodb.net/yelpcamp?retryWrites=true&w=majority")
-
 app.use(bodyParser.urlencoded({extended: true}));
 
 //view engine - ejs
