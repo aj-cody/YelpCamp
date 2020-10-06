@@ -23,6 +23,6 @@ Go to the browser and type: **localhost:5000**
 
 Your campgorund web app has started.
 
-![Starting Page](https://github.com/aj-cody/YelpCamp/blob/master/public/YelpCamp.JPG)
+![Starting Page](https://github.com/aj-cody/YelpCamp/tree/main/public/YelpCamp.JPG)
 
 **Happy Camping!**
